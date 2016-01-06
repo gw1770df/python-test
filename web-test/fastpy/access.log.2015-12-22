@@ -1,0 +1,155 @@
+[2015-12-22 11:56:10]  fail: /hello.hello No module named hello  File "./fastpy.py", line 432, in process
+    auto_update,action,mtime = self.getGloalAction(action_key)
+  File "./fastpy.py", line 395, in getGloalAction
+    action = __import__(action_key)
+
+[2015-12-22 11:56:29]  fail: /Hello.hello No module named Hello  File "./fastpy.py", line 432, in process
+    auto_update,action,mtime = self.getGloalAction(action_key)
+  File "./fastpy.py", line 395, in getGloalAction
+    action = __import__(action_key)
+
+[2015-12-22 11:56:39]  fail: /Hello.Hello No module named Hello  File "./fastpy.py", line 432, in process
+    auto_update,action,mtime = self.getGloalAction(action_key)
+  File "./fastpy.py", line 395, in getGloalAction
+    action = __import__(action_key)
+
+[2015-12-22 11:56:41]  fail: /Hello.hello No module named Hello  File "./fastpy.py", line 432, in process
+    auto_update,action,mtime = self.getGloalAction(action_key)
+  File "./fastpy.py", line 395, in getGloalAction
+    action = __import__(action_key)
+
+[2015-12-22 11:56:45]  fail: /Hello No module named Hello  File "./fastpy.py", line 432, in process
+    auto_update,action,mtime = self.getGloalAction(action_key)
+  File "./fastpy.py", line 395, in getGloalAction
+    action = __import__(action_key)
+
+[2015-12-22 11:56:46]  fail: /Hello No module named Hello  File "./fastpy.py", line 432, in process
+    auto_update,action,mtime = self.getGloalAction(action_key)
+  File "./fastpy.py", line 395, in getGloalAction
+    action = __import__(action_key)
+
+[2015-12-22 11:57:36]  fail: /Hello.tt No module named Hello  File "./fastpy.py", line 432, in process
+    auto_update,action,mtime = self.getGloalAction(action_key)
+  File "./fastpy.py", line 395, in getGloalAction
+    action = __import__(action_key)
+
+[2015-12-22 11:57:40]  fail: /Hello.tt No module named Hello  File "./fastpy.py", line 432, in process
+    auto_update,action,mtime = self.getGloalAction(action_key)
+  File "./fastpy.py", line 395, in getGloalAction
+    action = __import__(action_key)
+
+[2015-12-22 11:57:40]  fail: /Hello.tt No module named Hello  File "./fastpy.py", line 432, in process
+    auto_update,action,mtime = self.getGloalAction(action_key)
+  File "./fastpy.py", line 395, in getGloalAction
+    action = __import__(action_key)
+
+[2015-12-22 11:58:22]  fail: /test.tt 'NoneType' object has no attribute 'tt'  File "./fastpy.py", line 438, in process
+    method = getattr(obj, request.method)
+
+[2015-12-22 11:59:39]  success: /example.tt
+[2015-12-22 11:59:41]  success: /example.tt
+[2015-12-22 11:59:42]  success: /example.tt
+[2015-12-22 13:31:18]  success: /example.tt
+[2015-12-22 13:31:43]  success: /example.tt
+[2015-12-22 13:33:03]  success: /example.tt
+[2015-12-22 13:33:25]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
+[2015-12-22 13:33:43]  success: /example.tt
