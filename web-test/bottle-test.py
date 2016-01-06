@@ -14,6 +14,10 @@ def hello():
         response.set_cookie('visited', 'True')
         return 'hello'
 
+@route('/hello')
+def hi():
+    return 'hello'
+
 @route('/get')
 def get():
     return r.get('aaa')
